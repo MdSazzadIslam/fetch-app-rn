@@ -22,11 +22,9 @@ npm install
 
 Be sure to have the corresponding SDK for each platform. Install app on device:
 
-For IOS please run bellow command
-react-native run-ios 
 
-For Android please run bellow command
-react-native run-android
+react-native run-ios For Android please run bellow command
+
 
 License
 MIT
