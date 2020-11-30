@@ -2,7 +2,7 @@
 Fetching Data from an API Endpoint in React Native. 
 
 
-Simple React Native Fetch Aapp
+Simple React Native Fetch App
 
 
 Requirements
